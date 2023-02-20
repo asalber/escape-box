@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: Escape Box
 description: Un juego de escape matemático.
-show_downloads: "false"
+show_downloads: false
