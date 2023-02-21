@@ -46,6 +46,4 @@ El objetivo de este juego de escape es abrir todas las cajas antes de 1 hora. Pa
 4. Tenéis un comodín para pedir una pista si en algún momento estáis bloqueados.
 
 
-¿Está todo claro? Pues si estáis listos, podéis comenzar con _aquí_.
-
-Y recordad, si en algún momento estáis bloqueados podéis pedir ayuda al teléfono de emergencias.
+¿Está todo claro? Pues si estáis listos, aquí tenéis la [primera pista](/cuadrado_magico.md).
