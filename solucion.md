@@ -28,7 +28,7 @@ Un joven aprendiz empieza a trabajar con un salario de 1€ al día, pero cada d
 
 Usar la escítala y la cuerda para obtener la combinación del candado de movimientos.
 
-**Respuesta**: Arriba, Derecha, Derecha, Izquierda.
+**Respuesta**: Derecha, Izquierda, Izquierda, Abajo.
 
 **Abre**: Candado de movimientos, cajón derecho.
 
